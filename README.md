@@ -41,13 +41,16 @@ The dataset is provided in a SQLite database: `Chinook-sqlite.sqlite`, which con
 - USA contributed the highest revenue among all countries.
 - Rock and Latin genres were the most popular among buyers.
 - Top customers were identified by purchase value using `RANK()`.
+---
+
 Conclusion
 This analysis provided actionable insights into the music store's performance across different regions and genres. SQL was used for efficient data extraction, while Python helped visualize and interpret the results. This approach can guide marketing and inventory decisions for better sales performance.
+---
+
 Author
 Safia Sarfraz
 BBIT Student | Data Analyst Enthusiast | SQL + Python Explorer
 https://www.linkedin.com/in/safia-sarfraz-61160831b/
 ---
 
-## 📁 Project Structure
 
